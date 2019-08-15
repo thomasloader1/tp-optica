@@ -1,0 +1,12 @@
+.navegacion{
+    background: black;
+    height: 4rem;
+    color: white;
+  }
+  .navegacion  > ul > li{
+    padding: 0.5rem;
+    background: orange;
+    width: 4rem;
+    text-align: center;
+    
+  }
